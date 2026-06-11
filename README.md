@@ -289,4 +289,4 @@ Potential enhancements include:
 
 ## Author
 Festus and Krystyna
-Developed as part of an MSIT NLP learning project focused on understanding the core stages of text classification and deployment in real-world applications.
+Developed as part of an MasterSchool Institute of Technology (MSIT), NLP learning project focused on understanding the core stages of text classification and deployment in real-world applications.
