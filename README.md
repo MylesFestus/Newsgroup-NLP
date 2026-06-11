@@ -19,6 +19,13 @@ The solution is developed through a Jupyter Notebook for experimentation, modula
 
 ---
 
+---
+
+## Live Demo
+***App URL: [https://mylesfestus-newsgroup-nlp-app-bzhdgd.streamlit.app]***
+
+---
+
 ## Dataset
 
 The project uses the **20 Newsgroups Dataset**, a collection of approximately 20,000 newsgroup documents partitioned across 20 different categories.
