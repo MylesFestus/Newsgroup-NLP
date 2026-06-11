@@ -1,11 +1,16 @@
-# News group Classifier
+<div align="center">
+
+# News Group Classifier
 
 ## NLP Fundamental Steps and Actions
-
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red?logo=streamlit)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
+A machine learning application that classifies text documents into one of the 20 Newsgroups categories using NLP preprocessing, feature extraction, and text classification techniques.
+
+</div>
 
 
 ## Overview
