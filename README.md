@@ -2,6 +2,12 @@
 
 ## NLP Fundamental Steps and Actions
 
+
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red?logo=streamlit)](https://streamlit.io)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
+
 ## Overview
 
 This project demonstrates the fundamental stages of a Natural Language Processing (NLP) workflow, including:
