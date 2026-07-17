@@ -7,6 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red?logo=streamlit)](https://streamlit.io)
 ![Flask](https://img.shields.io/badge/Flask-3.x-black?logo=flask&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 A machine learning application that classifies text documents into one of the 20 Newsgroups categories using NLP preprocessing, feature extraction, and text classification techniques.
