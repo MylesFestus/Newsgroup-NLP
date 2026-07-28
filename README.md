@@ -250,7 +250,7 @@ app.py
 
 ---
 
-## Libraries
+## Libraries (Requirements.txt)
 
 * Python
 * Pandas
